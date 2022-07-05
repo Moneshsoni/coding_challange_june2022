@@ -3,7 +3,8 @@ def array_check
     value = 4
     for i in arr
         if(i==value)
-            puts("value is present #{value}")
+            puts("value is present #
+             {value}")
             break
         else
             puts("value is can't present")
