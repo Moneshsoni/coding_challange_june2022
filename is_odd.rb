@@ -5,5 +5,4 @@ def is_odd(n)
         return false
     end
 end
-
 puts("Is odd! ",is_odd(-5))
